@@ -1,0 +1,45 @@
+footer{
+	color:gray;
+	font-size:13;
+	font-family: Verdana;
+}
+#p4{
+	font-family: Verdana;
+	font-size: 13;
+    color: gray;
+}
+#h1{
+	color:rgb(211,211,211);
+    font-family: Copperplate Gothic Light;
+}
+body{
+	font-family: Century Gothic;
+	color:rgb(211,211,211);
+	font-size: 22px;
+background: url("file:///C:/Users/baswaraj/Desktop/HTML/cokf.jpg");
+background-repeat: no-repeat;
+background-size: cover;	
+
+	}
+#div1{
+
+	font-family: VERDANA; 
+	font:small-caption;
+}
+#p1{
+  font-size:15;
+  transition-duration:10s;
+
+}
+#btn1{
+	background-image: url("C:/Users/baswaraj/Pictures/cokicon.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+   
+}
+#p2{
+	font-size: 15;
+	font-family: sans-serif;
+
+}
